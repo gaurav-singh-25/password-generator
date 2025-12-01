@@ -8,6 +8,9 @@ This project is a simple and interactive web-based password generator built usin
 - One-click password copy
 - Clean and responsive UI
 
+## Screenshot
+![Password Generator Screenshot](https://github.com/gaurav-singh-25/password-generator/blob/master/password-generator-demo.png)
+
 ## Technologies Used
 - HTML
 - CSS
